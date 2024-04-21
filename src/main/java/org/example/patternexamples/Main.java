@@ -1,4 +1,4 @@
-package org.example;
+package org.example.patternexamples;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,5 +9,6 @@ public class Main {
         ((ViewerMichaelSingleton) v).subscribeToStreamer(st);
         st.notify("Going live in 3... 2... 5...");
         ((ViewerMichaelSingleton) v).refresh();
+
     }
 }
