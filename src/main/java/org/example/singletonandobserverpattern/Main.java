@@ -1,4 +1,4 @@
-package org.example.patternexamples;
+package org.example.singletonandobserverpattern;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.patternexamples;
+package org.example.singletonandobserverpattern;
 
 import java.util.ArrayList;
 

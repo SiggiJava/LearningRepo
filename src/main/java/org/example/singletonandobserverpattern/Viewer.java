@@ -1,4 +1,4 @@
-package org.example.patternexamples;
+package org.example.singletonandobserverpattern;
 
 public class Viewer implements ViewerInterface{
     @Override
